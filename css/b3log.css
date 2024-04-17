@@ -1,0 +1,57 @@
+.Log {
+    position: absolute;
+    top: 150px;
+    display: flex;
+    flex-direction: column-reverse;
+    background-color: rgb(150, 150, 150);
+    border-radius: 11px;
+    padding: 55px;
+    left: 60vh;
+    width: 60vh;
+    height: 65vh;
+} 
+
+.formp1 p{
+    position: relative;
+    top: -100px;
+    width: 230;
+    height: 50px;
+    font-size: 22;
+    color: rgb(255, 255, 255);
+    text-align: left;
+    margin-bottom: 20px;
+}
+.formp1 h1{
+    position: relative;
+    top: -150px;;
+    width: 230px;
+    height: 70px; 
+    font-size: 100px;
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+
+.formp1 button{
+    margin-bottom: 3%;
+    border-radius: 11px;
+    box-shadow: 15px 15px 45px rgba(141, 141, 141, 0.466);
+    padding: 2px;
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+}
+.formp1 input{
+    
+    border-radius: 100px;
+    box-shadow: 15px 15px 45px rgba(rgb(150, 150, 150));
+    padding: 2px;
+    background-color: rgb(150, 150, 150);
+}
+
+
+.formp1 label{
+    position: absolute;
+    left: 10vh;
+    color: rgb(255, 255, 255);
+}

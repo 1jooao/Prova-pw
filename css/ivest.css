@@ -1,0 +1,40 @@
+.neo{
+    display: flex;
+    flex-direction: row;
+    border-radius: 11px;
+    background-color: #37474f;
+    padding: 10px;
+    width: 100%;  
+}
+
+.will{
+    display: grid;
+    margin: -10px;
+    flex-direction:row;
+    border-radius: 11px;
+    background-color: #37474f;
+    padding: 10px;
+    width: 1220px;  
+}
+
+.rfpb{
+    display: grid;
+    margin: -10px;
+    flex-direction: row;
+    border-radius: 11px;
+    background-color: #37474f;
+    padding: 10px;
+    width: 100%;  
+}
+
+.rfml{
+    display: flex;
+    flex-direction: row;
+    border-radius: 11px;
+    background-color: #37474f;
+    padding: 10px;
+    width: 100%;  
+}
+
+
+
